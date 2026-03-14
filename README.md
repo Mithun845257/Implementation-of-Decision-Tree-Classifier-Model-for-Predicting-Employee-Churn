@@ -91,8 +91,7 @@ plt.show()
 ```
 
 ## Output:
-
-![decision tree classifier model](sam.png)
+ml8.png
 
 
 
