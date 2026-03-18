@@ -91,7 +91,11 @@ plt.show()
 ```
 
 ## Output:
-ml8.png
+<img width="440" height="301" alt="image" src="https://github.com/user-attachments/assets/c82ef40b-06db-485c-a71c-1d7cb3f392f3" />
+<img width="1825" height="117" alt="image" src="https://github.com/user-attachments/assets/306f8873-f5e7-4cc6-96a2-daa6346a2938" />
+<img width="1564" height="794" alt="image" src="https://github.com/user-attachments/assets/63122c20-d189-434d-9580-6ac6c8f04b50" />
+
+
 
 
 
